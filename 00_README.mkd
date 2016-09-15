@@ -24,17 +24,20 @@
   - 月配列2-263の元になっている、JIS X 6004、いわゆる新JIS配列のローマ字テーブルです。
 
 ## ライセンス
-MITライセンスに似たライセンスを適用します。
-
-Copyright (c) 2016 Shusui Moyatani
-
-以下に定める条件に従い、本ローマ字テーブル（以下、ローマ字テーブル）の複製を取得するすべての人に対し、
-ローマ字テーブルを無制限に扱うことを無償で許可します。これには、ローマ字テーブルの複製を使用、複写、変更、結合、掲載、頒布、
-サブライセンス、および/または販売する権利、およびローマ字テーブルを提供する相手に同じことを許可する権利も無制限に含まれます。
-
-上記の著作権表示および本許諾表示を、ローマ字テーブルのすべての複製または重要な部分に記載するものとします。
-
-ローマ字テーブルは「現状のまま」で、明示であるか暗黙であるかを問わず、何らの保証もなく提供されます。
-ここでいう保証とは、商品性、特定の目的への適合性、および権利非侵害についての保証も含みますが、それに限定されるものではありません。
-作者または著作権者は、契約行為、不法行為、またはそれ以外であろうと、ローマ字テーブルに起因または関連し、
-あるいはローマ字テーブルの使用またはその他の扱いによって生じる一切の請求、損害、その他の義務について何らの責任も負わないものとします。
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://gist.github.com/syusui-s/1e0447cd597cf42968084793f2b4bc91/edit">
+    <span property="dct:title">Shusui Moyatani</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">Google日本語入力 / Mozc用 ローマ字テーブル</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="JP" about="https://gist.github.com/syusui-s/1e0447cd597cf42968084793f2b4bc91/edit">
+  日本</span>.
+</p>
