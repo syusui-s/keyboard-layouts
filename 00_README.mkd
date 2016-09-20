@@ -1,8 +1,8 @@
 # Google日本語入力 / Mozc用 ローマ字テーブル
-[@syusui_s](https://twitter.com/syusui_s)が制作したローマ字テーブルのデータです。
+[@syusui\_s](https://twitter.com/syusui_s)が制作したローマ字テーブルのデータです。
 
 ## ローマ字テーブル
-* roman\_table\_syusui\_custom.txt - [DvorakJP]を[Dvorak JP106]で使用するるための設定ファイルです設定ファイルです。
+* roman\_table\_syusui\_custom.txt - [DvorakJP]を[Dvorak JP106]で使用するための設定ファイルです。
 * GoogleIME\_Tsuki2-263\_Dvorak\_JP106.txt - [月配列2-263]をDvorak JP106で使用するための設定ファイルです。
 * GoogleIME\_Tsuki2-263\_QWERTY\_JP106.txt - 月配列2-263をQWERTY(日本語106キーボード)で使用するための設定ファイルです。
 
@@ -24,20 +24,8 @@
   - 月配列2-263の元になっている、JIS X 6004、いわゆる新JIS配列のローマ字テーブルです。
 
 ## ライセンス
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br />
-  To the extent possible under law,
-  <a rel="dct:publisher"
-     href="https://gist.github.com/syusui-s/1e0447cd597cf42968084793f2b4bc91/edit">
-    <span property="dct:title">Shusui Moyatani</span></a>
-  has waived all copyright and related or neighboring rights to
-  <span property="dct:title">Google日本語入力 / Mozc用 ローマ字テーブル</span>.
-This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="JP" about="https://gist.github.com/syusui-s/1e0447cd597cf42968084793f2b4bc91/edit">
-  日本</span>.
-</p>
+すべての配列は、他の方が考案・制作されたものをベースにしています。
+そのため、OSI承認ライセンスは特に適用しません。
+
+利用は自己責任で行ってください。
+使用上発生した損害について、私はなんら責任を負わないものとします。
