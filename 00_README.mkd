@@ -1,5 +1,5 @@
 # Google日本語入力 / Mozc用 ローマ字テーブル
-[@syusui\_s](https://twitter.com/syusui_s)が制作したローマ字テーブルのデータです。
+[@syusui\_s](https://twitter.com/syusui_s)が制作・移植したローマ字テーブルのデータです。
 
 ## ローマ字テーブル
 * roman\_table\_syusui\_custom.txt - [DvorakJP]を[Dvorak JP106]で使用するための設定ファイルです。
