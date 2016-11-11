@@ -1,27 +1,38 @@
 # Google日本語入力 / Mozc用 ローマ字テーブル
 [@syusui\_s](https://twitter.com/syusui_s)が制作・移植したローマ字テーブルのデータです。
 
-## ローマ字テーブル
-* roman\_table\_syusui\_custom.txt - [DvorakJP]を[Dvorak JP106]で使用するための設定ファイルです。
-* GoogleIME\_Tsuki2-263\_Dvorak\_JP106.txt - [月配列2-263]をDvorak JP106で使用するための設定ファイルです。
-* GoogleIME\_Tsuki2-263\_QWERTY\_JP106.txt - 月配列2-263をQWERTY(日本語106キーボード)で使用するための設定ファイルです。
+## ローマ字テーブル一覧
+一般的な日本語106キーボードと[Dvorak JP106]向けの配列・入力方式のローマ字テーブルを用意しています。
 
-[DvorakJP]:http://www7.plala.or.jp/dvorakjp/
+* [DvorakJP] : Dvorak配列で日本語を入力しやすいように工夫された入力方式です。覚えることが少ないため、容易に習得できます。
+	+ roman\_table\_syusui\_custom.txt : 自分用に打ちやすくカスタマイズしたものです。「ll」で「っ」を出すようにしたりなど。
+* [月配列2-263] : JIS X6004配列中指シフトの考え方を取り入れ、入力しやすいように改変を加えた配列です。
+	+ GoogleIME\_Tsuki2-263\_Dvorak\_JP106.txt
+	+ GoogleIME\_Tsuki2-263\_QWERTY\_JP106.txt
+* [neuTRON配列] : 中指シフトの考え方を取り入れて、[TRON配列]を一般的なキーボードで利用できるようにした配列です。
+	+ GoogleIME\_neuTRON\_Dvorak\_JP106.txt
+
 [Dvorak JP106]:http://www.vultaire.net/software/dvorak_jp106/
+[DvorakJP]:http://www7.plala.or.jp/dvorakjp/
+[TRON配列]:http://www.personal-media.co.jp/utronkb/tron-layout.html
 [月配列2-263]:http://jisx6004.client.jp/tsuki.html
+[neuTRON配列]:./01_README_neuTRON.mkd
+
+## 変換用スクリプト
+日本語106キーボードとDvorak JP106間で、ローマ字テーブルを変換するスクリプトを用意しています。
 
 ## 参考にしたサイト
 ローマ字テーブルを作るにあたって、次のサイトを参考にしました。ありがとうございました。
 カスタマイズされる際は、参考にしてください。
 
-+  [Google IMEで携帯入力 - 「次の入力」の秘密 - - tomoemonの日記](http://tomoemon.hateblo.jp/entry/20101024/p1)
-  - 「次の入力」機能を使用することで、濁点や記号などの複数打鍵入力を実現しています。
-  
+*  [Google IMEで携帯入力 - 「次の入力」の秘密 - - tomoemonの日記](http://tomoemon.hateblo.jp/entry/20101024/p1)
+	+ 「次の入力」機能を使用することで、濁点や記号などの複数打鍵入力を実現しています。
+
 ## 外部リンク
 他の方が制作されたおすすめのローマ字テーブルを紹介しています。
 
-+ [JIS-X-6004 for Google日本語入力](https://gist.github.com/ytomino/3610371)
-  - 月配列2-263の元になっている、JIS X 6004、いわゆる新JIS配列のローマ字テーブルです。
+* [JIS-X-6004 for Google日本語入力](https://gist.github.com/ytomino/3610371)
+	+ 月配列2-263の元になっている、JIS X 6004、いわゆる新JIS配列のローマ字テーブルです。
 
 ## ライセンス
 すべての配列は、他の方が考案・制作されたものをベースにしています。
