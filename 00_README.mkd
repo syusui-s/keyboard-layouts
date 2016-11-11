@@ -16,7 +16,7 @@
 [DvorakJP]:http://www7.plala.or.jp/dvorakjp/
 [TRON配列]:http://www.personal-media.co.jp/utronkb/tron-layout.html
 [月配列2-263]:http://jisx6004.client.jp/tsuki.html
-[neuTRON配列]:./01_README_neuTRON.mkd
+[neuTRON配列]:#file-01_readme_neutron-mkd
 
 ## 変換用スクリプト
 日本語106キーボードとDvorak JP106間で、ローマ字テーブルを変換するスクリプトを用意しています。
