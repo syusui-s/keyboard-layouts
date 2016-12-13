@@ -24,7 +24,7 @@
 
 実行例:
 
-```ruby
+```sh
 $ ruby ./gime_conv.rb neuTRON/GoogleIME_neuTRON_Dvorak_JP106.txt
 入力ファイルのキー配列 (dvorak, qwerty): dvorak
 'dvorak'を選択しました。
