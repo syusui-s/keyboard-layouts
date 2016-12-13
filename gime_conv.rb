@@ -39,7 +39,7 @@ to_key = ask_keymap("出力ファイルのキー配列")
 from = KEYMAPS[from_key.to_sym]
 to = KEYMAPS[to_key.to_sym]
 
-print "Output file: "
+print "出力先: "
 output = $stdin.gets().strip()
 
 if File.exist?(output)
