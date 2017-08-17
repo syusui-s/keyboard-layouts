@@ -255,6 +255,11 @@ hnx	ひぃん
 ho	ほ
 hp	ふう
 hq	ほん
+hra	ふぁ
+hre	ふぇ
+hri	ふぃ
+hro	ふぉ
+hru	ふゅ
 hu	ふ
 hx	ひん
 hya	ひゃ
@@ -427,10 +432,14 @@ phx	ぴぃん
 pi	ぴ
 pj	ぺん
 pk	ぷん
+pn,	ぴょう
+pn:	ぴゃい
+pn.	ぴぇい
 pna	ぴゃ
 pne	ぴぇ
 pni	ぴぃ
 pno	ぴょ
+pnp	ぴゅう
 pnu	ぴゅ
 po	ぽ
 pp	っ	p
@@ -655,7 +664,3 @@ zq	ぞん
 zu	ず
 zx	じん
 zz	っ	z
-pn,	ぴょう
-pn:	ぴゃい
-pn.	ぴぇい
-pnp	ぴゅう
