@@ -247,11 +247,8 @@ hr,	ふぉう
 hr;	ふぁん
 hr:	ふぁい
 hr.	ふぇい
-hra	ふぁ
-hre	ふぇ
 hrp	ふゅう
 hrq	ふぉん
-hru	ふ
 hrx	ふぃん
 hu	ふ
 hx	ひん
