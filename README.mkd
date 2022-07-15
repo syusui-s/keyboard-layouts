@@ -13,7 +13,7 @@
 	+ `GoogleIME_neuTRON_Dvorak_JP106.txt`
 
 [Dvorak JP106]:http://www.vultaire.net/software/dvorak_jp106/
-[DvorakJP]:http://www7.plala.or.jp/dvorakjp/
+[DvorakJP]:https://web.archive.org/web/20210309063552/http://www7.plala.or.jp/dvorakjp/
 [TRON配列]:http://www.personal-media.co.jp/utronkb/tron-layout.html
 [月配列2-263]:http://jisx6004.client.jp/tsuki.html
 [neuTRON配列]:#file-01_readme_neutron-mkd
